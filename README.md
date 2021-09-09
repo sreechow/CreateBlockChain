@@ -1,4 +1,3 @@
-# CreateBlockChain
-Create a Block chain using python  
 
+Create Sample Blockchain system using python
 
